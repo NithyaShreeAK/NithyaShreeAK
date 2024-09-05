@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NithyaShreeAK
 - 👀 I’m interested in coding , ML and  marketing
 - 🌱 I’m currently learning AIML
-- 💞️ I’m looking to collaborate on web dev projects,digital marketing contents,building applications
+- 💞️ I’m looking to collaborate on any projects,digital marketing contents,building applications and ML models
 - 📫 How to reach me nithyashree1ak@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: lightning learner
